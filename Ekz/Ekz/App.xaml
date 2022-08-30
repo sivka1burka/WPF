@@ -1,0 +1,11 @@
+﻿<Application x:Class="Ekz.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             xmlns:local="clr-namespace:Ekz"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <sys:String x:Key="XWin">X-0</sys:String>
+        <sys:String x:Key="OWin">0-O</sys:String>
+    </Application.Resources>
+</Application>
